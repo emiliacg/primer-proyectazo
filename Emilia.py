@@ -1,3 +1,4 @@
 print("abanico")
 a= input()
-print(f"esto fue lo que agarre: '{a}'")
+if a == "hola":
+    print("klk")
